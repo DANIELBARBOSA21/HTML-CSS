@@ -1,0 +1,25 @@
+@charset "UTf-8";
+
+body{
+    background-image: linear-gradient(to right,#2708A0,#3A5683, #639A88, #76B041, #51CB20);
+}
+main{
+    background-color: #83d3e7ad;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+
+}
+h1#principal{
+    font-family: 'Jersey 25'
+   background-color: #347e91ad;
+   border-radius: 16px;
+   text-align: center;
+}
+.Subtítulos{
+    color: black;
+    text-align: right;
+   
+}
